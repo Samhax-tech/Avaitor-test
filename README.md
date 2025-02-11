@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aviator-test-bot.git
+   git clone https://github.com/Samhax-tech/Avaitor-test.git
    cd aviator-test-bot
    ```
 2. Install dependencies:
